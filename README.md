@@ -1,5 +1,5 @@
 # 💫 About Me:
-✨About Me<br><br>🎓 Final-year B.E. CSE student<br><br>🔍 I like solving problems by breaking them into pieces<br><br>📚 Believe in learning by doing — not just reading docs<br><br>🤝 Open to collaboration & interesting project ideas
+✨About Me<br><br>🎓 pre-Final-year B.E. CSE student<br><br>🔍 I like solving problems by breaking them into pieces<br><br>📚 Believe in learning by doing — not just reading docs<br><br>🤝 Open to collaboration & interesting project ideas
 
 
 ## 🌐 Socials:
