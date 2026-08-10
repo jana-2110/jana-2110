@@ -1,3 +1,4 @@
+[![](https://komarev.com/ghpvc/?username=jana-2110&icon=0&color=0)](https://visitcount.itsvg.in)
 # 💫 About Me:
 ✨About Me<br><br>🎓 Final-year B.E. CSE student<br><br>🔍 I like solving problems by breaking them into pieces<br><br>📚 Believe in learning by doing — not just reading docs<br><br>🤝 Open to collaboration & interesting project ideas
 
